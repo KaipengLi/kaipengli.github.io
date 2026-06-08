@@ -22,12 +22,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal website! I'm Kaipeng Li, a Master's student in Computer Science at the University of Tsukuba, Japan. My research interests lie at the intersection of information retrieval, recommender systems, and generative AI.
+I'm Kaipeng Li, a Master's student in Computer Science at the University of Tsukuba, Japan. My research interests lie at the intersection of information retrieval, recommender systems, and generative AI.
 
 ## Research Interests
 I am particularly passionate about:
