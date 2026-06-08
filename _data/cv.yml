@@ -44,8 +44,7 @@ cv:
         highlights:
           - "Participated in advanced research projects"
 
-      - institution: University of Electronic Science and Technology of China (UESTC)
-        location:Tsukuba Technology Co. Ltd
+      - company: Tsukuba Technology Co. Ltd
         position: Software Development Engineer Intern
         location: Tsukuba, Japan
         start_date: 2024-02-01
@@ -78,8 +77,7 @@ cv:
           - "Implemented multi-speed playback function for video search optimization"
           - "Developed Qt-based video surveillance software for real-time area monitoring"
           - "Created Qt program using V4L2 driver for camera real-time monitoring"
-          - "Languages: C, C++, Python, Qt"17
-        end_date: 1933
+          - "Languages: C, C++, Python, Qt"
 
       - company: Karl-Ferdinand University
         position: Professor of Theoretical Physics
@@ -146,20 +144,15 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: frogramming Languages
+      - name: Programming Languages
         level: Advanced
         icon: fa-solid fa-code
         keywords: "C, C++, Python, Java, JavaScript, SQL"
-Chinese (Mandarin)
-        summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
-
-      - name: Japanese
-        summary: "IntermediaterFlow, PyTorch, Deep Learning, Information Retrieval, Recommender Systems"
+      - name: Machine Learning
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "TensorFlow, PyTorch, Deep Learning, Information Retrieval, Recommender Systems"
 
       - name: Full Stack Development
         level: Intermediate
@@ -174,12 +167,20 @@ Chinese (Mandarin)
       - name: Data Analysis
         level: Intermediate
         icon: fa-solid fa-chart-bar
-        keywords: "XGBoost, Transformer Models, Statistical Analysis, Data Visualiz
-      - name: German
+        keywords: "XGBoost, Transformer Models, Statistical Analysis, Data Visualization"
+
+    Languages:
+      - name: Chinese (Mandarin)
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
+
+      - name: Japanese
+        summary: "Intermediate"
+
+      - name: German
+        summary: "Native speaker"
 
     Interests:
       - name: Physics
