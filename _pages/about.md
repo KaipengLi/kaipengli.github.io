@@ -30,13 +30,16 @@ latest_posts:
 I'm Kaipeng Li, a Master's student in Computer Science at the University of Tsukuba, Japan. My research interests lie at the intersection of information retrieval, recommender systems, and generative AI.
 
 ## Research Interests
+
 I am particularly passionate about:
+
 - **Text-Image Retrieval**: Developing advanced frameworks for cross-modal retrieval using multimodal learning
 - **Recommender Systems**: Building intelligent systems that understand user preferences and behaviors
 - **Generative Models & LLM**: Exploring the potential of large language models and retrieval-augmented generation (RAG)
 - **Information Retrieval**: Enhancing retrieval accuracy and efficiency in large-scale datasets
 
 ## Current Work
+
 I'm actively involved in several research projects including multimodal document retrieval, generative retrieval models for biomedical applications, and automatic loss function generation for learning-to-rank models. My work has been published in top-tier venues like SIGIR and Tsinghua Science and Technology.
 
 Feel free to explore my research publications, projects, and repositories. I'm always interested in connecting with fellow researchers and collaborators. Don't hesitate to reach out!
