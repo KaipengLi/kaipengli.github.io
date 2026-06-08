@@ -5,7 +5,7 @@ cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 email: keeey.kk@gmail.com # your email address
 rss_icon: true # comment this line to hide the RSS icon
 github_username: KaipengLi
+scholar_userid: JZmvldIAAAAJ
 # uncomment and fill in if applicable:
-# scholar_userid: your Google Scholar ID
 # linkedin_id: your LinkedIn ID
 # twitter_username: your Twitter handle
