@@ -1,0 +1,9 @@
+// Site-specific presentation tweaks for the personal homepage.
+.post h2 a {
+  text-transform: capitalize;
+}
+
+.publications .author em {
+  font-style: normal;
+  font-weight: 700;
+}
