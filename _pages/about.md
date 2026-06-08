@@ -27,6 +27,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  .post h2 a {
+    text-transform: capitalize;
+  }
+
+  .publications .author em {
+    font-style: normal;
+    font-weight: 700;
+  }
+</style>
+
 I'm Kaipeng Li, a Master's student in Computer Science at the University of Tsukuba, Japan. My research interests lie at the intersection of information retrieval, recommender systems, and generative AI.
 
 ## Research Interests
