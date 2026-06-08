@@ -27,9 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-Welcome to my personal website! I'm Kaipeng Li, a Master's student and independent researcher with a passion for advancing the field of information retrieval and recommender systems. My research interests include text-image retrieval, generative models, LLM-based applications, and Retrieval-Augmented Generation (RAG).
+Welcome to my personal website! I'm Kaipeng Li, a Master's student in Computer Science at the University of Tsukuba, Japan. My research interests lie at the intersection of information retrieval, recommender systems, and generative AI.
 
-Currently, I'm focusing on innovative approaches to cross-modal retrieval and exploring the intersection of machine learning and information systems. My work has been published in top-tier venues, and I'm actively engaged in collaborative research projects that push the boundaries of modern AI applications.
+## Research Interests
+I am particularly passionate about:
+- **Text-Image Retrieval**: Developing advanced frameworks for cross-modal retrieval using multimodal learning
+- **Recommender Systems**: Building intelligent systems that understand user preferences and behaviors
+- **Generative Models & LLM**: Exploring the potential of large language models and retrieval-augmented generation (RAG)
+- **Information Retrieval**: Enhancing retrieval accuracy and efficiency in large-scale datasets
 
-Feel free to explore my research, publications, and projects. I'm always interested in connecting with fellow researchers, potential collaborators, and anyone passionate about technology and innovation. Don't hesitate to reach out!
+## Current Work
+I'm actively involved in several research projects including multimodal document retrieval, generative retrieval models for biomedical applications, and automatic loss function generation for learning-to-rank models. My work has been published in top-tier venues like SIGIR and Tsinghua Science and Technology.
+
+Feel free to explore my research publications, projects, and repositories. I'm always interested in connecting with fellow researchers and collaborators. Don't hesitate to reach out!

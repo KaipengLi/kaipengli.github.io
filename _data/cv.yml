@@ -21,53 +21,64 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Tsukuba
+        location: Tsukuba, Japan
+        url: https://www.tsukuba.ac.jp/
+        area: Computer Science
+        studyType: Master of Science
+        start_date: 2023-10-01
+        end_date: ""
+        score: "3.6/4.3"
+        courses: "Machine Learning, Information Retrieval, Deep Learning"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "GPA: 3.6/4.3"
+          - "Focus on multimodal retrieval and generative models"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Tsukuba
+        location: Tsukuba, Japan
+        url: https://www.tsukuba.ac.jp/
+        area: Computer Science
+        studyType: Research Student Program
+        start_date: 2022-04-01
+        end_date: 2023-09-30
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Participated in advanced research projects"
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: University of Electronic Science and Technology of China (UESTC)
+        location:Tsukuba Technology Co. Ltd
+        position: Software Development Engineer Intern
+        location: Tsukuba, Japan
+        start_date: 2024-02-01
+        end_date: ""
+        summary: Developing image processing systems for security inspection machines and customs applications.
         highlights:
-          - Relativity
-          - Description 2.
+          - "Participated in image processing systems development for security inspection machines"
+          - "Optimized software user interface and integrated logging/data tracking features"
+          - "Developed Modbus-compatible software systems for real-time hardware monitoring"
+          - "Languages: C, C++, Python, OpenCV"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Computational Intelligence Laboratory, UESTC
+        position: Research Assistant
+        location: Chengdu, China
+        start_date: 2021-07-01
+        end_date: 2022-03-31
+        summary: Assisted in research on latest technology trends and international conferences.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Investigated international top conferences and technical references"
+          - "Prepared research reports and project proposals"
+          - "Provided technical solutions and promoted project implementation"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
+      - company: Sichuan Huadi Information Technology Co., Ltd.
+        position: Embedded Software Development Intern
+        location: Chengdu, China
+        start_date: 2020-06-01
+        end_date: 2020-07-31
+        summary: Developed Qt-based video surveillance software under Linux.
+        highlights:
+          - "Implemented multi-speed playback function for video search optimization"
+          - "Developed Qt-based video surveillance software for real-time area monitoring"
+          - "Created Qt program using V4L2 driver for camera real-time monitoring"
+          - "Languages: C, C++, Python, Qt"17
         end_date: 1933
 
       - company: Karl-Ferdinand University
@@ -137,10 +148,33 @@ cv:
     Skills:
       - name: Physics
         level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        icon: frogramming Languages
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "C, C++, Python, Java, JavaScript, SQL"
+Chinese (Mandarin)
+        summary: "Native speaker"
 
-    Languages:
+      - name: English
+        summary: "Fluent"
+
+      - name: Japanese
+        summary: "IntermediaterFlow, PyTorch, Deep Learning, Information Retrieval, Recommender Systems"
+
+      - name: Full Stack Development
+        level: Intermediate
+        icon: fa-solid fa-laptop
+        keywords: "MERN Stack, MongoDB, Express.js, React, Node.js, Web Development"
+
+      - name: Software Development
+        level: Advanced
+        icon: fa-solid fa-tools
+        keywords: "Image Processing, OpenCV, Qt, Embedded Systems, Modbus"
+
+      - name: Data Analysis
+        level: Intermediate
+        icon: fa-solid fa-chart-bar
+        keywords: "XGBoost, Transformer Models, Statistical Analysis, Data Visualiz
       - name: German
         summary: "Native speaker"
 
