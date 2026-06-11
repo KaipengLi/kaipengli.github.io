@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Congratulations🎉🎉🎉! Our paper "A Combination-based Framework for Generative Text-image Retrieval: Dual Identifiers and Hybrid Retrieval Strategies" was accepted to _SIGIR-AP 2025_.
+🎉 Our paper, "A Combination-based Framework for Generative Text-image Retrieval: Dual Identifiers and Hybrid Retrieval Strategies," has been accepted to [*SIGIR-AP 2025*](https://www.sigir-ap.org/sigir-ap-2025/), which will be held in Xi'an, China from December 7 to 10, 2025!
+
