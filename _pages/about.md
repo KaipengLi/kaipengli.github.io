@@ -37,3 +37,4 @@ My research interests lie at the intersection of Information Retrieval, Recommen
 My current work focuses on how large language models and modern deep learning methods can improve search ranking, recommendation quality, and information discovery. I also explore how to connect classical IR pipelines with generative approaches to build systems that are both effective and transparent.
 
 
+
