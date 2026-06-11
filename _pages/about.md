@@ -5,11 +5,11 @@ permalink: /
 subtitle: Independent Researcher
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Japan</p>
+    <p>Tsukuba / Yokohama, Japan</p>
   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,14 +27,54 @@ latest_posts:
 ---
 
 
+<style>
+  #navbar .nav-link,
+  #navbar .dropdown-item {
+    text-transform: capitalize;
+  }
 
-👋 Hi there! I am Kaipeng Li, an Independent Researcher working on Information Retrieval and Recommender Systems with Generative AI. I earned my Master's degree in Computer Science from the [University of Tsukuba](https://www.tsukuba.ac.jp/en/), Japan.
+  .post h1 {
+    font-weight: 700;
+  }
 
-I am fortunate to work with [my supervisor](https://ii-research-yu.github.io/) and collaborate with the [II Research Lab](https://ii-research.github.io/).
+  .post h2,
+  .post h2 a {
+    text-transform: capitalize;
+  }
 
-My research interests lie at the intersection of Information Retrieval, Recommender Systems, and Generative AI. I am especially interested in building intelligent systems that better understand user intent and deliver personalized, relevant information at scale.
+  .post h2 a[href="/publications/"] {
+    color: var(--global-theme-color) !important;
+  }
 
-My current work focuses on how large language models and modern deep learning methods can improve search ranking, recommendation quality, and information discovery. I also explore how to connect classical IR pipelines with generative approaches to build systems that are both effective and transparent.
+  .news a {
+    color: var(--global-theme-color) !important;
+  }
 
+  .news a em {
+    color: var(--global-theme-color) !important;
+  }
+
+  .news a:hover {
+    color: var(--global-theme-color) !important;
+    text-decoration: underline;
+  }
+  
+  .social .contact-icons i,
+  .social .contact-icons svg {
+    font-size: 2.2rem;
+    width: 2.2rem;
+    height: 2.2rem;
+  }
+</style>
+
+
+
+👋 Hi there! I am Kaipeng Li, an System Engineer at the [Ricoh Group](https://www.ricoh.com/) and an Independent Researcher working on Information Retrieval, Recommender Systems, and Generative AI. I received my Master's degree from the [Graduate School of Library, Information and Media Studies](https://www.slis.tsukuba.ac.jp/grad/english/index-e.html), [University of Tsukuba](https://www.tsukuba.ac.jp/en/), Japan.
+
+I am fortunate to have been advised by [Prof. Haitao Yu](https://ii-research-yu.github.io/) and to collaborate with the [II Research Lab](https://ii-research.github.io/) and the [Information Retrieval Group at the University of Tsukuba](https://ir-tsukuba.github.io/).
+
+My research interests lie at the intersection of Information Retrieval, Recommender Systems, and Generative AI, with a particular focus on generative retrieval, multimodal retrieval, and personalized information access. I am interested in building intelligent systems that can better understand user intent and retrieve relevant information from large-scale and heterogeneous candidate pools.
+
+My recent work explores how large language models and modern deep learning techniques can improve search ranking, recommendation quality, and information discovery. I also study how to bridge classical retrieval pipelines with generative approaches, aiming to develop systems that are both effective and scalable.
 
 
