@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's Student | Researcher in Recommender Systems & Information Retrieval | Japan
+subtitle: Independent Researcher
 
 profile:
   align: right
@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Japan</p>
-    <p>Master Student (Independent)</p>
-    <p><a href="mailto:keeey.kk@gmail.com">keeey.kk@gmail.com</a></p>
+  
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,30 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<style>
-  .post h2 a {
-    text-transform: capitalize;
-  }
 
-  .publications .author em {
-    font-style: normal;
-    font-weight: 700;
-  }
-</style>
 
-I'm Kaipeng Li, a Master's student in Computer Science at the University of Tsukuba, Japan. My research interests lie at the intersection of information retrieval, recommender systems, and generative AI.
+👋 Hi there! I am Kaipeng Li, an Independent Researcher working on Information Retrieval and Recommender Systems with Generative AI. I earned my Master's degree in Computer Science from the [University of Tsukuba](https://www.tsukuba.ac.jp/en/), Japan.
 
-## Research Interests
+I am fortunate to work with [my supervisor](https://ii-research-yu.github.io/) and collaborate with the [II Research Lab](https://ii-research.github.io/).
 
-I am particularly passionate about:
+My research interests lie at the intersection of Information Retrieval, Recommender Systems, and Generative AI. I am especially interested in building intelligent systems that better understand user intent and deliver personalized, relevant information at scale.
 
-- **Text-Image Retrieval**: Developing advanced frameworks for cross-modal retrieval using multimodal learning
-- **Recommender Systems**: Building intelligent systems that understand user preferences and behaviors
-- **Generative Models & LLM**: Exploring the potential of large language models and retrieval-augmented generation (RAG)
-- **Information Retrieval**: Enhancing retrieval accuracy and efficiency in large-scale datasets
+My current work focuses on how large language models and modern deep learning methods can improve search ranking, recommendation quality, and information discovery. I also explore how to connect classical IR pipelines with generative approaches to build systems that are both effective and transparent.
 
-## Current Work
 
-I'm actively involved in several research projects including multimodal document retrieval, generative retrieval models for biomedical applications, and automatic loss function generation for learning-to-rank models. My work has been published in top-tier venues like SIGIR and Tsinghua Science and Technology.
-
-Feel free to explore my research publications, projects, and repositories. I'm always interested in connecting with fellow researchers and collaborators. Don't hesitate to reach out!
