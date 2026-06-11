@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations🎉🎉🎉! Our paper "FlowCoPCL: Enhanced Flow Correlation Attacks on Tor Using Patching and Contrastive Learning" was published in _Tsinghua Science and Technology_.
+🎉 Our paper, "FlowCoPCL: Enhanced Flow Correlation Attacks on Tor Using Patching and Contrastive Learning," has been published in [*Tsinghua Science and Technology*](https://www.sciopen.com/article/10.26599/TST.2024.9010165) !
