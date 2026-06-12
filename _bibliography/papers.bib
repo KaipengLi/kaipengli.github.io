@@ -9,14 +9,16 @@
   bibtex_show   = {true},
   title         = {A Combination-based Framework for Generative Text-image Retrieval: Dual Identifiers and Hybrid Retrieval Strategies},
   author        = {Li, Kaipeng and Yu, Haitao and Fang, Yubo and Lei, Chao},
-  booktitle={Proceedings of the 2025 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region},
+  booktitle     = {Proceedings of the 2025 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region},
+  pages         = {281--291},
   year          = {2025},
   month         = {December},
   publisher     = acm,
   doi           = {10.1145/3767695.3769474},
-  html          = {https://doi.org/10.1145/3767695.3769474},
+  abstract      = {Cross-modal retrieval plays a fundamental role in bridging distinct information sources, such as text, images, and videos. Different from the traditional methods that predominantly rely on discriminative matching via cross-attention or joint embedding spaces, generative cross-modal retrieval has recently emerged as a new paradigm. Despite the improvements achieved by recent studies, there are still many open questions. For instance, given the conventional setting that representing each candidate item by a unique identifier and expanding the prefix by one token at a time in a greedy manner during the constrained beam search process, once the prefix of a relevant item's identifier is pruned, it becomes impossible for that item to appear in the final result list, leading to the risk of getting stuck in a local optimum. In this paper, we develop a combination-based framework for generative cross-modal retrieval. Specifically, we not only explore the effectiveness of imposing dual identifiers during the constrained beam search process, but also investigate the benefits of combining different retrieval strategies so as to mitigate the information loss caused by the discrete representations. Based on two benchmark collections, our extensive empirical experiments reveal that: (1) Compared with the state-of-the-art generative text-image retrieval method, our proposed approach based on dual identifiers achieves substantially improved performance. Although generative retrieval with discrete identifiers offers higher efficiency, it still falls significantly short of dense embedding-based retrieval in terms of performance. To overcome this limitation, we propose a hybrid strategy that performs initial generative retrieval followed by reranking the top-k candidates using dense embeddings, resulting in notable improvements in both retrieval performance and efficiency. (2) The factors, such as the choice of base LLMs, the number of top candidate items to rerank, the beam size and the way of combining ranking strategies significantly influence the retrieval performance. Careful examinations of these factors are highly recommended in the development of generative text-image retrieval methods.},
+  pdf           = {https://dl.acm.org/doi/epdf/10.1145/3767695.3769474},
+  code          = {https://github.com/KaipengLi/ComGTIR},
   selected      = {true},
-  pages={281--291},
   preview       = {sigirap2025.png}
 }
 
@@ -30,7 +32,8 @@
   month         = {April},
   publisher     = {Tsinghua University Press},
   doi           = {10.26599/TST.2024.9010165},
-  html          = {https://doi.org/10.26599/TST.2024.9010165},
+  abstract      = {Flow correlation is a key technique for deanonymization attacks on Tor, while Tor can be used to achieve anonymous communication between Internet of Things (IoT) nodes in edge intelligence. Recent works treat flows as time series and use Convolutional Neural Network (CNN) to extract flow embeddings to improve the effectiveness of flow correlation attacks. However, unlike the consistent time intervals of data points in general time series, the arrival time intervals between flow packets are unequal, so the flow embeddings extracted are temporal inconsistent, which affects the effectiveness of flow correlation attacks. To address this challenge, we propose enhanced Flow Correlation attacks on Tor using Patching and Contrastive Learning (FlowCoPCL). First, FlowCoPCL uses a time-based patching mechanism to split the flow into patches of the same duration. The patch embeddings are extracted as the input of the CNN model to ensure the temporal consistency of the flow embeddings. Second, FlowCoPCL adapts the contrastive learning framework SimCLR to train the feature embedding networks, which enables the model to learn flow embeddings efficiently. The experimental results demonstrate that FlowCoPCL significantly outperforms existing flow correlation attacks on Tor, achieving over 99% True Positive Rate (TPR) at 10−5 False Positive Rate (FPR). Additionally, FlowCoPCL shows the robustness against website fingerprinting defenses.},
+  pdf           = {https://doi.org/10.26599/TST.2024.9010165},
   selected      = {true},
   preview       = {tst.png}
 }
