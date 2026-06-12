@@ -33,18 +33,12 @@ latest_posts:
     text-transform: capitalize;
   }
 
-  .post h1 {
-    font-weight: 700;
-  }
 
   .post h2,
   .post h2 a {
     text-transform: capitalize;
   }
 
-  .post h2 a[href="/publications/"] {
-    color: var(--global-theme-color) !important;
-  }
 
   .news a {
     color: var(--global-theme-color) !important;
