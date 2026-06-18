@@ -14,7 +14,7 @@ I would like to sincerely thank my supervisor, [Prof. Haitao Yu](https://ii-rese
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/outstanding_graduate_certificate.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/certificate.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
