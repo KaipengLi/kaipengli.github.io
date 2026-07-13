@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our demo paper, "EasyRAG: A Beginner-friendly and Interactive Framework for Retrieval-Augmented Generation," has been accepted to [*SIGIR 2026*](https://sigir2026.org/en-AU/pages/program/accepted-papers), which will be held in Melbourne, Australia from July 20 to 24, 2026!
+🎉 Our demo paper, "EasyRAG: A Beginner-friendly and Interactive Framework for Retrieval-Augmented Generation," has been accepted to [*SIGIR 2026*](https://sigir2026.org/en-AU/pages/program/accepted-papers), which will be held in Melbourne, Australia from July 20 to 24, 2026!  Looking forward to traveling to Melbourne, Australia this July.
